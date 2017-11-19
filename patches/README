@@ -1,0 +1,11 @@
+# This is patch directory
+
+Step 1: cd WORKING_DIR
+Step 2: to install
+
+sh device/LeEco/X3/patches/install.sh
+
+To uninstall
+
+sh device/LeEco/X3/patches/uninstall.sh
+
